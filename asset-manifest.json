@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MohammedHafis/Clinic-Staff/static/css/main.f5dbcc16.css",
+    "main.js": "/MohammedHafis/Clinic-Staff/static/js/main.51c7f2ae.js",
+    "static/js/453.de1f210a.chunk.js": "/MohammedHafis/Clinic-Staff/static/js/453.de1f210a.chunk.js",
+    "index.html": "/MohammedHafis/Clinic-Staff/index.html",
+    "main.f5dbcc16.css.map": "/MohammedHafis/Clinic-Staff/static/css/main.f5dbcc16.css.map",
+    "main.51c7f2ae.js.map": "/MohammedHafis/Clinic-Staff/static/js/main.51c7f2ae.js.map",
+    "453.de1f210a.chunk.js.map": "/MohammedHafis/Clinic-Staff/static/js/453.de1f210a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5dbcc16.css",
+    "static/js/main.51c7f2ae.js"
+  ]
+}
